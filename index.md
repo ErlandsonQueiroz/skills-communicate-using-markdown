@@ -7,3 +7,9 @@ public void funcaoTesteMarkdown(int argumento){
   ...
 }
 ```
+
+Atividades da Tarefa:
+- [x] Adicionar Header
+- [x] Adicionar Imagem
+- [x] Adicionar código
+- [ ] Adicionar Lista
